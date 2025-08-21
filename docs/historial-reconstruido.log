@@ -17,3 +17,4 @@
 2025-08-18T10:36:00-03:00  otsu se come la tinta clara, pruebo sauvola
 2025-08-20T12:50:00-03:00  binarización sauvola
 2025-08-20T12:58:00-03:00  loss en nan, bajo el learning rate
+2025-08-21T15:39:00-03:00  fix: las fotos con flash quedaban quemadas
