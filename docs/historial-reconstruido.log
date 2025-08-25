@@ -20,3 +20,4 @@
 2025-08-21T15:39:00-03:00  fix: las fotos con flash quedaban quemadas
 2025-08-21T16:15:00-03:00  revert, no era eso
 2025-08-24T16:08:00-03:00  feat(preprocess): enderezado por proyección horizontal
+2025-08-25T11:24:00-03:00  renombro variables
