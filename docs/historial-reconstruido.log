@@ -28,3 +28,4 @@
 2025-08-28T16:51:00-03:00  re-pruebo
 2025-08-28T17:22:00-03:00  fix: charset sin la ç
 2025-08-30T19:36:00-03:00  feat(segment): palabras por scale-space (Scheidl)
+2025-08-31T15:17:00-03:00  feat(model): CNN + LSTM + CTC en tensorflow, base SimpleHTR
