@@ -34,3 +34,4 @@
 2025-09-03T17:21:00-03:00  loss en nan, bajo el learning rate
 2025-09-03T18:07:00-03:00  re-entreno
 2025-09-04T11:08:00-03:00  charset con ñ, tildes, ç y voladas
+2025-09-04T11:40:00-03:00  revert, no era eso
