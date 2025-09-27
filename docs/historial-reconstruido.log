@@ -61,3 +61,4 @@
 2025-09-22T17:29:00-03:00  re-entreno con lo corregido
 2025-09-27T19:41:00-03:00  feat(matricula): ingesta de los 55 folios
 2025-09-27T19:49:00-03:00  fix: se cortaba el último renglón del folio
+2025-09-27T20:15:00-03:00  fix: tildes en el docx
