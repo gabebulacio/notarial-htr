@@ -75,3 +75,4 @@
 2025-10-01T13:40:00-03:00  transcripción preliminar con el modelo v1
 2025-10-01T14:11:00-03:00  ahora sí
 2025-10-01T14:24:00-03:00  fix: hogares duplicados en la tabla
+2025-10-01T15:16:00-03:00  fix: se cortaba el último renglón del folio
