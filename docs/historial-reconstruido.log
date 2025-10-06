@@ -78,3 +78,4 @@
 2025-10-01T15:16:00-03:00  fix: se cortaba el último renglón del folio
 2025-10-04T19:47:00-03:00  tinta aclarada en varios folios, baja la confianza. reviso a mano
 2025-10-05T14:46:00-03:00  el primer folio es ilegible por el desgaste, queda marcado
+2025-10-06T17:26:00-03:00  las edades en números rompían el léxico, las dejo pasar
