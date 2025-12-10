@@ -149,3 +149,4 @@
 2025-12-03T19:27:00-03:00  arreglo test
 2025-12-07T15:46:00-03:00  feat(model): reconocimiento por renglón, sin segmentar palabras
 2025-12-08T11:40:00-03:00  backup del ground truth
+2025-12-10T14:41:00-03:00  renglón entero: menos errores de segmentación, más memoria
