@@ -152,3 +152,4 @@
 2025-12-10T14:41:00-03:00  renglón entero: menos errores de segmentación, más memoria
 2025-12-13T21:06:00-03:00  batch más chico, no entra en memoria
 2025-12-14T18:48:00-03:00  feat(decode): beam search en vez de best path
+2025-12-23T00:08:00-03:00  update
