@@ -153,3 +153,4 @@
 2025-12-13T21:06:00-03:00  batch más chico, no entra en memoria
 2025-12-14T18:48:00-03:00  feat(decode): beam search en vez de best path
 2025-12-23T00:08:00-03:00  update
+2025-12-24T14:06:00-03:00  léxico de época armado con las transcripciones
