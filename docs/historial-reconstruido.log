@@ -170,3 +170,4 @@
 2025-12-25T14:13:00-03:00  léxico: formas con y sin voladas
 2025-12-25T14:34:00-03:00  beam search: ancho 10 vs 25
 2025-12-25T14:51:00-03:00  fix: espacios dobles en la salida
+2025-12-25T15:16:00-03:00  tests del dataset de renglones
