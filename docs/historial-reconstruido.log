@@ -164,3 +164,4 @@
 2025-12-25T12:11:00-03:00  mejor arranco desde los pesos del modelo por palabra
 2025-12-25T12:33:00-03:00  checkpoint por época
 2025-12-25T12:46:00-03:00  fix: el CER de validación usaba el set de entrenamiento
+2025-12-25T13:05:00-03:00  comparo palabra vs renglón en 10 páginas
