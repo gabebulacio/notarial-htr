@@ -168,3 +168,4 @@
 2025-12-25T13:31:00-03:00  renglón gana en las páginas densas, pierde en las listas
 2025-12-25T13:52:00-03:00  léxico: saco duplicados por mayúsculas
 2025-12-25T14:13:00-03:00  léxico: formas con y sin voladas
+2025-12-25T14:34:00-03:00  beam search: ancho 10 vs 25
