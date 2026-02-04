@@ -204,3 +204,4 @@
 2026-02-04T10:28:00-03:00  fix(decode): números y fechas quedaban afuera del léxico
 2026-02-04T10:40:00-03:00  test(decode): casos con abreviaturas
 2026-02-04T11:23:00-03:00  wip
+2026-02-04T11:55:00-03:00  notas
