@@ -228,3 +228,4 @@
 2026-02-23T11:52:00-03:00  fix: lint
 2026-02-23T12:07:00-03:00  notas
 2026-02-23T12:31:00-03:00  update
+2026-02-25T17:30:00-03:00  fix: probabilidades en log, se iban a cero
