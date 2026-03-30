@@ -271,3 +271,4 @@
 2026-03-30T11:08:00-03:00  chore: actualizo requirements
 2026-03-30T17:07:00-03:00  feat(search): búsqueda de palabras sobre la matriz CTC, sin transcribir
 2026-03-30T17:33:00-03:00  fix: lint
+2026-03-30T18:07:00-03:00  saco prints
