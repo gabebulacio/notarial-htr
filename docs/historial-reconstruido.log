@@ -322,3 +322,4 @@
 2026-05-08T17:15:00-03:00  fix typo
 2026-05-10T10:42:00-03:00  con palabras clave no alcanza, pruebo tf-idf + regresión logística
 2026-05-11T10:53:00-03:00  ruff
+2026-05-11T11:15:00-03:00  arreglo test
