@@ -337,3 +337,4 @@
 2026-05-17T13:44:00-03:00  re-etiqueto los expedientes con las categorías nuevas
 2026-05-20T02:39:00-03:00  fix(nlp): el texto de baja confianza metía ruido, lo filtro
 2026-05-20T12:29:00-03:00  fix typo
+2026-05-24T19:19:00-03:00  matriz de confusión por categoría
