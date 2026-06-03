@@ -348,3 +348,4 @@
 2026-05-31T18:55:00-03:00  backup del ground truth
 2026-06-01T12:12:00-03:00  docs: categorías y criterios
 2026-06-01T12:36:00-03:00  fix: lint
+2026-06-03T18:52:00-03:00  feat(nlp): extracción de contrayentes, padres y testigos
