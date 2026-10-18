@@ -1,0 +1,302 @@
+{
+ "page_id": "p0030",
+ "status": "en_curso",
+ "model": "McCATMuS_nfd_nofix_V1.mlmodel",
+ "updated_at": "2026-10-18T02:26:16+00:00",
+ "lines": [
+  {
+   "id": "_1c85317d-4042-4a0c-8279-725b59a05c49",
+   "text": "",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "307"
+  },
+  {
+   "id": "_38306285-c334-431b-a7ca-7020395e29b8",
+   "text": "",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "pa"
+  },
+  {
+   "id": "_0305996c-e3e9-41ee-9773-6a0d48594245",
+   "text": "Vicario y Jues Eclesiasteico",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "Iscaxior ues thrascsice"
+  },
+  {
+   "id": "_75a19150-0e15-4e7c-ab45-4d644e7ec7cf",
+   "text": "Roque Lopes Vecino dela Jurisdicción de Córdova de",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "40 que 40. Vas J'eano dele susidiess de Catora de"
+  },
+  {
+   "id": "_87dd694c-3c97-4b2d-9ef6-733eabf6d9f1",
+   "text": "",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "12"
+  },
+  {
+   "id": "_73c3f45d-76de-4673-a30e-b802a72274ec",
+   "text": "Vm. paresco enla mejor via y forma que nos haya lugar en",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "Vand Lagerco entel mefona y ta j mos ara luber ch"
+  },
+  {
+   "id": "_1c8ab78c-e96c-4440-a966-c18777bc9174",
+   "text": "lygar y derecho hijo de Bicente Lopes y de Pabla Rojas que",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "lu gary de acche hiso de Dicenne lozes di Labla Astas sue"
+  },
+  {
+   "id": "_7388b598-d3a4-44eb-b85d-321bb55d592b",
+   "text": "quiero Contraer el Snto matrimonio con Josepha Castillo",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "eas Contraer el J, ma, imonés Con osegha Coseille"
+  },
+  {
+   "id": "_0baa3ce7-c64b-4879-a9a6-4b3fd360a8af",
+   "text": "",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "⟦ ⟦s m ci"
+  },
+  {
+   "id": "_eafbdeef-aec6-41c4-9fe9-7cbc13631de2",
+   "text": "vecinos de",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "Voecunske"
+  },
+  {
+   "id": "_7e12d014-a4fd-4aac-ac15-2d04928731ac",
+   "text": "",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "n Ema quil"
+  },
+  {
+   "id": "_ce60cc8e-a7b8-4476-ba91-34429d529dcd",
+   "text": "de carasget Veniticodé: wtar u tesensoadme",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "de carasget Veniticodé: wtar u tesensoadme"
+  },
+  {
+   "id": "_d5fcaeab-c44e-4db8-bc7d-31b9a32fe1dc",
+   "text": "mébianse In Cenignidat de admistiamne Cost sestig y",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "mébianse In Cenignidat de admistiamne Cost sestig y"
+  },
+  {
+   "id": "_9d0a0435-d38e-46cf-bc3e-d472970a6bd9",
+   "text": "87 ello opres ce dai J'éate cervin de Casaamey/ Velaamu ey",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "87 ello opres ce dai J'éate cervin de Casaamey/ Velaamu ey"
+  },
+  {
+   "id": "_c62e5abd-1b6f-4639-ad06-56544d01438a",
+   "text": "Délaame jn fac. Ederre sequis Cmanda et S7^r Concilio des ne",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "Délaame jn fac. Ederre sequis Cmanda et S7^r Concilio des ne"
+  },
+  {
+   "id": "_f774771f-7750-410f-beca-9fe70d9de202",
+   "text": "de En sus segnodos Canoes peos toboloquet",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "de En sus segnodos Canoes peos toboloquet"
+  },
+  {
+   "id": "_d4980241-ea57-44b6-b93f-0c21aa87b6b9",
+   "text": "⟦f  ",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "⟦f  "
+  },
+  {
+   "id": "_2ea398f7-6705-4dde-9fa5-2a366ef392a5",
+   "text": "ue aragot fretemese Conva edeeane la cnspar",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "ue aragot fretemese Conva edeeane la cnspar"
+  },
+  {
+   "id": "_1b2a26e7-4f98-4f74-8070-7873941f2cfa",
+   "text": "an  do fugtice",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "an  do fugtice"
+  },
+  {
+   "id": "_63d0cf85-d98e-41c0-8024-fe0ecda1762b",
+   "text": "cron q La elo sagtosany premehiers eneblo its ces",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "cron q La elo sagtosany premehiers eneblo its ces"
+  },
+  {
+   "id": "_bcfb94d6-f95f-46ac-8df1-6f852f416cca",
+   "text": "das y grore toig ⁊ie o cat hiene maluea al quno",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "das y grore toig ⁊ie o cat hiene maluea al quno"
+  },
+  {
+   "id": "_b2e86b39-ecda-4125-b967-c5dcec84d4b1",
+   "text": "mee",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "mee"
+  },
+  {
+   "id": "_a827d577-4bf7-493b-86f3-0b2c0640721e",
+   "text": "Fvacos de Gro que 1o Jas Banhe figuere de",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "Fvacos de Gro que 1o Jas Banhe figuere de"
+  },
+  {
+   "id": "_ccde542e-b362-44ec-9a9a-a6fc422d4be3",
+   "text": "45",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "45"
+  },
+  {
+   "id": "_ef54132d-120c-4f6f-b2c2-f7bccd1207b8",
+   "text": "Jy déa vointe sinco de Flobiembre, y apo de Mrs, parcrces anti",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "Jy déa vointe sinco de Flobiembre, y apo de Mrs, parcrces anti"
+  },
+  {
+   "id": "_b155d6dd-4153-44ca-8c4e-0d04207fd140",
+   "text": "me Sug cclesiasnier y lata picarie, pratrictarié de lre Benep",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "me Sug cclesiasnier y lata picarie, pratrictarié de lre Benep"
+  },
+  {
+   "id": "_37008e9a-43bf-489f-a4db-6ade5d712869",
+   "text": "dae lotante en Asta. Capilla",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "dae lotante en Asta. Capilla"
+  },
+  {
+   "id": "_0605255f-9dc8-47d0-b9b1-938fd18840bc",
+   "text": "2",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "2"
+  },
+  {
+   "id": "_bb35e837-0a06-4b60-9539-7e2952568fd3",
+   "text": " G onenencior saros",
+   "doubtful": false,
+   "edited": false,
+   "prediction": " G onenencior saros"
+  },
+  {
+   "id": "_3ee7691b-c7d5-49c9-8a99-058ff888b5eb",
+   "text": "&Fr",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "&Fr"
+  },
+  {
+   "id": "_9e0f8cbc-21a6-44d7-bcbd-56f41dbb30e6",
+   "text": " Fl Rogue Rogé",
+   "doubtful": false,
+   "edited": false,
+   "prediction": " Fl Rogue Rogé"
+  },
+  {
+   "id": "_ead961c5-0500-4286-a645-1e8aea790798",
+   "text": "⟧ M nen C",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "⟧ M nen C"
+  },
+  {
+   "id": "_b3573f4b-c869-4d54-86d4-41427d831ce9",
+   "text": "compedemiints Iipara Contrail Je Vidants",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "compedemiints Iipara Contrail Je Vidants"
+  },
+  {
+   "id": "_2f413eee-59ba-4d36-86f0-bb483f05e008",
+   "text": "R a",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "R a"
+  },
+  {
+   "id": "_5fbdacd5-1fac-4b7d-bb19-bf82c4d76909",
+   "text": "par cuyo",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "par cuyo"
+  },
+  {
+   "id": "_c44cb153-16ce-4562-819d-c175ebe2afd2",
+   "text": "metivée mando liugs concursan antr mi, jursgadoy pa los, diché",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "metivée mando liugs concursan antr mi, jursgadoy pa los, diché"
+  },
+  {
+   "id": "_dc07f087-f22b-4da4-ade1-de1a1ba09116",
+   "text": "reirgos para ser charamenbass. y para que sonr ver assi les",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "reirgos para ser charamenbass. y para que sonr ver assi les"
+  },
+  {
+   "id": "_5996227c-ec09-4b7f-b70c-bf2a2168fd1c",
+   "text": "mandade lo sirme en et meme, dia y ans Sl",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "mandade lo sirme en et meme, dia y ans Sl"
+  },
+  {
+   "id": "_95f1a56e-faf2-42c3-976e-1161d52e0f2a",
+   "text": "Ansoniabl Pina",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "Ansoniabl Pina"
+  },
+  {
+   "id": "_7632dcca-4c7d-4aa3-b416-56ecf6f119ea",
+   "text": "Duan lantos e orute",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "Duan lantos e orute"
+  },
+  {
+   "id": "_562c24f9-99bc-47fd-8e1d-be87c5217705",
+   "text": "luihe yss con noren Li preccanis la parre par gesriges ass^e Gavrietl.",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "luihe yss con noren Li preccanis la parre par gesriges ass^e Gavrietl."
+  },
+  {
+   "id": "_a5cb1731-c237-466d-a23b-0831f22bff71",
+   "text": "de Li (hrisdoyal Cal as^t Eucas Rosziees 7 1e ans lus",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "de Li (hrisdoyal Cal as^t Eucas Rosziees 7 1e ans lus"
+  }
+ ]
+}

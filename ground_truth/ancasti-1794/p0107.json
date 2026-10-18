@@ -1,0 +1,112 @@
+{
+ "page_id": "p0107",
+ "status": "en_curso",
+ "model": "McCATMuS_nfd_nofix_V1.mlmodel",
+ "updated_at": "2026-10-18T03:31:34+00:00",
+ "lines": [
+  {
+   "id": "_1bec685e-7f47-4dda-aadb-67ddf93acf54",
+   "text": "certifico en q^to puedo y p^r derecho debo q^e D^n Luis Lobo",
+   "doubtful": false,
+   "not_text": false,
+   "edited": true,
+   "prediction": "dexsifico en qle peude y p^r desccho debo q Dt Luis Lobo"
+  },
+  {
+   "id": "_f1bee47a-9cf0-4bd1-be66-ce32fefafddf",
+   "text": "natural del curato de Ancaste, hijo legitimo de D^ Jus",
+   "doubtful": false,
+   "not_text": false,
+   "edited": true,
+   "prediction": "narunab del Ensato de Ancaite, hyjo legioime de D' Sus"
+  },
+  {
+   "id": "_97ce9fc7-038f-4ede-b0c8-5f971cb94fd7",
+   "text": "to Lobo y D^a Ystanislada Bustamanate ga producido",
+   "doubtful": false,
+   "not_text": false,
+   "edited": true,
+   "prediction": "to 5060 y de prcamnlada Buicamante ha produciele"
+  },
+  {
+   "id": "_ce358941-df47-4db1-9b30-cbdc74c1bbda",
+   "text": "iformacion de su soloma y literradl s^rr Contraen ma",
+   "doubtful": false,
+   "not_text": false,
+   "edited": false,
+   "prediction": "iformacion de su soloma y literradl s^rr Contraen ma"
+  },
+  {
+   "id": "_3dc4a1a6-4f86-4510-ad51-843329fbd012",
+   "text": "taimoms con 3^e Pousera Augier, natunal del cuxoite",
+   "doubtful": false,
+   "not_text": false,
+   "edited": false,
+   "prediction": "taimoms con 3^e Pousera Augier, natunal del cuxoite"
+  },
+  {
+   "id": "_08f60902-aea1-4bb8-a765-0a4fe61b20e2",
+   "text": "Asctorol, Juja legitima de F^r Inom^ Rafael Angien y",
+   "doubtful": false,
+   "not_text": false,
+   "edited": false,
+   "prediction": "Asctorol, Juja legitima de F^r Inom^ Rafael Angien y"
+  },
+  {
+   "id": "_9ebcfadc-d489-494e-b43a-6ce194db48f0",
+   "text": "F^t Marsa fgnacia Connar E ignalme se hallon par",
+   "doubtful": false,
+   "not_text": false,
+   "edited": false,
+   "prediction": "F^t Marsa fgnacia Connar E ignalme se hallon par"
+  },
+  {
+   "id": "_aa49404b-ddfc-4ee8-86e8-395ab40b5b1b",
+   "text": "clamade sequn dexeche de tools 4 ge no ha nesatra",
+   "doubtful": false,
+   "not_text": false,
+   "edited": false,
+   "prediction": "clamade sequn dexeche de tools 4 ge no ha nesatra"
+  },
+  {
+   "id": "_47acbf7e-3208-4c6d-9c2f-1abbe7125b31",
+   "text": "de infedimente ninquno & le pusda enberaroe et",
+   "doubtful": false,
+   "not_text": false,
+   "edited": false,
+   "prediction": "de infedimente ninquno & le pusda enberaroe et"
+  },
+  {
+   "id": "_fea2d28f-2c30-452d-b5f4-16a9a372a0c3",
+   "text": "mataimonie j'intenta, cq pongo en nosscra dle 7o",
+   "doubtful": false,
+   "not_text": false,
+   "edited": false,
+   "prediction": "mataimonie j'intenta, cq pongo en nosscra dle 7o"
+  },
+  {
+   "id": "_a00940f0-9bf3-4673-b5bb-b54360e5b9c2",
+   "text": "q proceda a su Venificacion ; comd tambien es qle",
+   "doubtful": false,
+   "not_text": false,
+   "edited": false,
+   "prediction": "q proceda a su Venificacion ; comd tambien es qle"
+  },
+  {
+   "id": "_ae9b5b26-0a64-4726-9c37-d5d606abba2e",
+   "text": "puede cexrifican ; y j'y conste le Jinme yzo el cuva",
+   "doubtful": false,
+   "not_text": false,
+   "edited": false,
+   "prediction": "puede cexrifican ; y j'y conste le Jinme yzo el cuva"
+  },
+  {
+   "id": "_058ebef5-cb77-4f83-8691-8abd5c5924a5",
+   "text": "y Vicaur Pedagne de cncare hoy Lo de Dicrembai d",
+   "doubtful": false,
+   "not_text": false,
+   "edited": false,
+   "prediction": "y Vicaur Pedagne de cncare hoy Lo de Dicrembai d"
+  }
+ ]
+}

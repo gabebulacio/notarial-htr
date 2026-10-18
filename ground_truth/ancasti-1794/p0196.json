@@ -1,0 +1,85 @@
+{
+ "page_id": "p0196",
+ "status": "corregida",
+ "model": "McCATMuS_nfd_nofix_V1.mlmodel",
+ "updated_at": "2026-10-18T02:18:36+00:00",
+ "lines": [
+  {
+   "id": "_503b5cb6-83d9-4d6e-8882-e08cde32fe42",
+   "text": "S.Cura y Vicario-",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "F.Cuxa y Vicanio-"
+  },
+  {
+   "id": "_376b066d-f903-4729-9105-4c23f2848b4a",
+   "text": "Jose Raymundo Surita indio residente en el Paraje",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "Tose Raimend Sunita indio nésidente en el Tanaje"
+  },
+  {
+   "id": "_4dc0a74c-2d86-4579-ba43-0c5036970f6a",
+   "text": "de Babiano hijo légitimo de Juan Andres Suita",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "de Mabiano dtyo légitimeo de Juan Andres Guxita"
+  },
+  {
+   "id": "_35f6ce81-d98e-42b4-a3ef-ff452a981fc2",
+   "text": "ya difunto, y de Ma Franca Nieva como mas haya",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "na defunte i de M^r han Niera como mas haya"
+  },
+  {
+   "id": "_72fa6339-0a40-46c4-88c9-9ace94b822ec",
+   "text": "lugar en dho ante Vd. paresco y digo qe para mas-",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "lugar en dao ante W8. panero y digo q para mas-"
+  },
+  {
+   "id": "_cd3f53c8-f01e-4ba3-a869-8235c2fca6c2",
+   "text": "bien servir à Dios he determinado tomar el estado=",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "bien sirrn à Dior hé deteaminado Tomax el entado-"
+  },
+  {
+   "id": "_8490eccc-51a2-4306-aa77-78ece5c501b0",
+   "text": "del Sto Matrimonio, segun y como lo manda Nra",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "del Ro Catrimono, sequn ycoms le manda Mra"
+  },
+  {
+   "id": "_aaf56145-8d86-4883-a27e-704a5e1ebeeb",
+   "text": "Sta Madre Yglesia con Maria Theresa Sesar in",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "Sta Chadre Tolerca con Mania Thexera Seran mn"
+  },
+  {
+   "id": "_16af1d10-691a-480e-bb27-a52d00c1be30",
+   "text": "dà hija legitimo de Juan Estevan Sesar, y de Se",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "dà hya legitrmo de man CItevan Jerax, y de 3e"
+  },
+  {
+   "id": "_67d31562-db93-438d-8032-39dd863bed13",
+   "text": "lidonia Garay ya difuntos feligreres qe fueron delCu",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "ldonia Teinay y a Sipinlos feliqueres q fuexon dellui"
+  },
+  {
+   "id": "_7a857712-83b7-427f-b11e-25f5d47f4a08",
+   "text": "del Rio seco residentes en el Paraje del Jum",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "dlIrio seco rendentes en deernge det sum"
+  }
+ ]
+}

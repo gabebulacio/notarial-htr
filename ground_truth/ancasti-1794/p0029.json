@@ -1,0 +1,113 @@
+{
+ "page_id": "p0029",
+ "status": "corregida",
+ "model": "McCATMuS_nfd_nofix_V1.mlmodel",
+ "updated_at": "2026-10-18T02:24:02+00:00",
+ "lines": [
+  {
+   "id": "_d8e9fa31-bb9d-4aa8-a49f-4a3d5a683acd",
+   "text": "",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "D "
+  },
+  {
+   "id": "_86b855f1-1385-4749-a76b-b1a55926bc0d",
+   "text": "",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "DTS"
+  },
+  {
+   "id": "_b6d95dab-5388-4ed9-91fb-5827140e0d3d",
+   "text": "D.Oedro Franci de Uriarte Cura y  Vic.",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "J.Sedro Jan ee Juiansse Puina  dic."
+  },
+  {
+   "id": "_2df724f6-775d-4a38-b142-2aed9ff45cb3",
+   "text": "del Partido y Veneficuo de Lorete< Sertifico",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "rul lanride Denefico ru Lonere . Dertifier"
+  },
+  {
+   "id": "_e7c779b8-d8b0-436c-87aa-bfa8d3330732",
+   "text": "Segun su Dro. debo y puedo, como Ardres Caraba",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "Segus iu Dro. 3560., puedo, corne Ardrer Texaba"
+  },
+  {
+   "id": "_1336e0e4-f7c1-454f-a3e8-7451469119f8",
+   "text": "jal feligres de este dho Curato, a probado su",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "pest Leligper i Cete dtro Cunate, a probaitre Ei"
+  },
+  {
+   "id": "_a8c5d44e-68da-41b4-a39a-74a59fcaf548",
+   "text": "livertad y soltura Ante este jusgadi, Con el fin",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "liventady sobrna Ante Crte Jesgads, Con el fur"
+  },
+  {
+   "id": "_bf9d519a-5149-4eb5-b5ee-891ab44abf92",
+   "text": "de Contraer el Sto matrimonio, Con Petrona",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "re Dorsiach & Stemnanimonir, Con Sermonc"
+  },
+  {
+   "id": "_8c484c7f-56d6-439f-8c54-bbba419402cf",
+   "text": "Nueva feligresa del Curato de Ancaste y",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "ANéva. Jeugnera nt- Aerato -e Aoicarte, y jo"
+  },
+  {
+   "id": "_ce21bf4c-4168-4b74-845a-c2ee17139372",
+   "text": "que pueda verificarlo di esta en este paraje",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "qebveda denfirte di nce en Cre Tanese"
+  },
+  {
+   "id": "_720d0ba0-c950-4f8f-8db8-ee8b1bd73f1d",
+   "text": "de Loreno en 16 de Marzo de 1795",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "uarerole Veur moso ru 1^re a "
+  },
+  {
+   "id": "_ed65f073-0ae3-4d83-b074-20bc3ec04c28",
+   "text": "",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "Sede Lo+"
+  },
+  {
+   "id": "_435a7e0a-a104-41ae-91b6-fc1f7a2ad541",
+   "text": "",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "A C"
+  },
+  {
+   "id": "_bdfe669f-062d-4e12-a29b-7b895debfede",
+   "text": "Pedri Franco de Uriarte",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "Sedno Ran. vee Duianwte"
+  },
+  {
+   "id": "_42e3b79e-439b-4dca-bbae-dcf5889c2ed3",
+   "text": "Christoval Lopes a Lucas Rodriges",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "Chrisdoval loges ald^e lucaz Rebarges e 1e aho tu"
+  }
+ ]
+}

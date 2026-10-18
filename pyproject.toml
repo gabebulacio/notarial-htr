@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "notarial-htr"
+version = "0.1.0"
+description = "HTR de registros notariales y eclesiásticos en español (siglos XVII-XVIII)"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [{ name = "Gabriel Bulacio" }]
+dependencies = [
+    "numpy>=1.26",
+    "opencv-python-headless>=4.9",
+    "pymupdf>=1.24",
+    "pyyaml>=6.0",
+    "typer>=0.12",
+]
+
+[project.optional-dependencies]
+# Kraken fijado a una versión exacta: 7.0.2 salió por releases comprometidos de una
+# dependencia, así que cada actualización se revisa a mano. Torch CPU se instala aparte
+# desde https://download.pytorch.org/whl/cpu (ver README).
+layout = ["kraken==7.1.1"]
+dev = ["pytest>=8", "ruff>=0.5"]
+
+[project.scripts]
+htr = "notarial_htr.cli:app"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100

@@ -1,0 +1,12 @@
+# Imágenes, modelos y salidas: pesan y se regeneran desde el PDF fuente
+data/
+models/
+outputs/
+
+__pycache__/
+*.egg-info/
+.venv/
+.pytest_cache/
+.ruff_cache/
+.env
+.env.local

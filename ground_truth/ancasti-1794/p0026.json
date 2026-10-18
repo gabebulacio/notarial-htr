@@ -1,0 +1,526 @@
+{
+ "page_id": "p0026",
+ "status": "corregida",
+ "model": "McCATMuS_nfd_nofix_V1.mlmodel",
+ "updated_at": "2026-10-18T02:12:37+00:00",
+ "lines": [
+  {
+   "id": "_47e25859-9684-4537-a38c-7d77dab5fb1e",
+   "text": "",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "2"
+  },
+  {
+   "id": "_ee0a7e24-24cd-4aee-b62f-451ba0bc379f",
+   "text": "",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "d"
+  },
+  {
+   "id": "_d506efdc-932f-4f6f-bf8b-15e33c9a149e",
+   "text": "",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "d"
+  },
+  {
+   "id": "_b2e542f6-f864-4206-9697-683a181f0f8a",
+   "text": "",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "D"
+  },
+  {
+   "id": "_fce16c73-3a77-4d72-8027-0a9bf7f99522",
+   "text": "",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "d"
+  },
+  {
+   "id": "_8efc9e52-766a-4f37-8c7e-5523c9239448",
+   "text": "",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "⟦"
+  },
+  {
+   "id": "_c6466b9e-5e80-4fad-bb6a-4c2c339709db",
+   "text": "",
+   "doubtful": false,
+   "edited": false,
+   "prediction": ""
+  },
+  {
+   "id": "_e438f952-5fa7-416d-aeb7-45119544d174",
+   "text": "",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "N"
+  },
+  {
+   "id": "_430230a0-e6c1-4798-91ee-3c9e35b07314",
+   "text": "",
+   "doubtful": false,
+   "edited": true,
+   "prediction": "2"
+  },
+  {
+   "id": "_f1dec5c0-ce07-499e-82e4-63ea4c81136f",
+   "text": "1",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "1"
+  },
+  {
+   "id": "_2460a3d4-f41e-42f1-9559-12378f05a836",
+   "text": "2",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "2"
+  },
+  {
+   "id": "_0ee83636-563f-44d5-94fc-7d8d9b74cd98",
+   "text": "B",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "B"
+  },
+  {
+   "id": "_5442214e-0da1-41a5-aa6e-089aef967167",
+   "text": "4",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "4"
+  },
+  {
+   "id": "_c3cc5980-7ec7-4135-9f9e-abd043d0458d",
+   "text": "D",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "D"
+  },
+  {
+   "id": "_0968dc27-1a88-4023-a5e5-2632cdb10844",
+   "text": "d",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "d"
+  },
+  {
+   "id": "_ccc9e846-b8de-414c-9b9d-73aa26ec14fc",
+   "text": "29",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "29"
+  },
+  {
+   "id": "_6afcc7a3-9303-487c-9858-d015bb95958f",
+   "text": "E",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "E"
+  },
+  {
+   "id": "_d548660d-8e8f-4abc-91f8-ee78e910380b",
+   "text": "5t",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "5t"
+  },
+  {
+   "id": "_46584c5b-88f4-42b7-af76-0fd713563933",
+   "text": "F",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "F"
+  },
+  {
+   "id": "_ab8c4a18-76ba-4477-93eb-00ca6008e187",
+   "text": "⟦ ",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "⟦ "
+  },
+  {
+   "id": "_c01717e3-0b31-48f8-be6b-4114608d924c",
+   "text": "",
+   "doubtful": false,
+   "edited": false,
+   "prediction": ""
+  },
+  {
+   "id": "_fc4718be-f026-4385-9be1-8e02f802188a",
+   "text": "2",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "2"
+  },
+  {
+   "id": "_a9c8213d-2c8f-46b2-a9f4-db110bf519fa",
+   "text": "2",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "2"
+  },
+  {
+   "id": "_55904dfd-8db8-4635-a81c-0af63db8f345",
+   "text": "2",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "2"
+  },
+  {
+   "id": "_c83382fd-ed4a-4d1f-96eb-f5bf56c2c033",
+   "text": "d",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "d"
+  },
+  {
+   "id": "_8fc469bc-4404-4fee-b07e-05cdb30fcecf",
+   "text": "devr  ae s",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "devr  ae s"
+  },
+  {
+   "id": "_51d757b9-07e4-4435-919c-32bd1203730f",
+   "text": "A",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "A"
+  },
+  {
+   "id": "_a8859861-1058-474c-9464-25be21a8e47a",
+   "text": "4",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "4"
+  },
+  {
+   "id": "_b64bca94-eb23-4ba6-97a1-8f09ddb49416",
+   "text": "Bu",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "Bu"
+  },
+  {
+   "id": "_499ca32e-3625-4c10-8372-f717444ae7c8",
+   "text": "2",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "2"
+  },
+  {
+   "id": "_a3d66865-759b-4490-8994-441607786a04",
+   "text": "l",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "l"
+  },
+  {
+   "id": "_b6ad3c4d-77a7-450a-b487-866b71b5f314",
+   "text": "det qus duit",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "det qus duit"
+  },
+  {
+   "id": "_767ca465-3a58-4dfb-945c-95f28493ffb7",
+   "text": "4.7",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "4.7"
+  },
+  {
+   "id": "_7020e418-c911-4ae2-8db5-9656f2356ed8",
+   "text": "4",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "4"
+  },
+  {
+   "id": "_cc8e664a-0c05-4131-8146-4d677e6c248b",
+   "text": "Paret",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "Paret"
+  },
+  {
+   "id": "_65e3516c-721d-41ef-ada5-cae65c3f500f",
+   "text": "ete",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "ete"
+  },
+  {
+   "id": "_1e914f52-8a09-403e-9f2d-b9684e7e99d1",
+   "text": "2",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "2"
+  },
+  {
+   "id": "_13860d03-a4a8-4bf5-97dc-379be0b76457",
+   "text": "⟦",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "⟦"
+  },
+  {
+   "id": "_ecbbce21-e8aa-49a5-b282-06e1db2ecaba",
+   "text": "⟦",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "⟦"
+  },
+  {
+   "id": "_a93760f6-ef2f-4974-96c9-64b018f6fc5c",
+   "text": "(arerteu",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "(arerteu"
+  },
+  {
+   "id": "_a5faae4a-7401-4452-8488-28483618d60c",
+   "text": "l",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "l"
+  },
+  {
+   "id": "_1b33651b-e01a-4004-939c-8819ced6a9d9",
+   "text": "d",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "d"
+  },
+  {
+   "id": "_31f9bbe4-220a-47f5-a23c-ae80d9ed7b4d",
+   "text": "Sa",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "Sa"
+  },
+  {
+   "id": "_a1b2fc48-405c-4d47-a1d4-d58c7cabbd1b",
+   "text": "l",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "l"
+  },
+  {
+   "id": "_2c79cd0f-f9b7-46be-b673-e09c24a14f10",
+   "text": "t  ",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "t  "
+  },
+  {
+   "id": "_9b88110f-61a8-4efa-a5e2-cc2b930c8b4d",
+   "text": "D",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "D"
+  },
+  {
+   "id": "_52d04549-bcc8-4fc0-b1c7-7b0ff4f326fd",
+   "text": "d",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "d"
+  },
+  {
+   "id": "_205d8951-8197-4140-8dd6-8c8676b17899",
+   "text": "3.77",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "3.77"
+  },
+  {
+   "id": "_4e85da9a-6a35-4d0e-a6ad-5ccb5915c084",
+   "text": "ed'o ds rote qli",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "ed'o ds rote qli"
+  },
+  {
+   "id": "_5a985f45-7985-4e1e-9406-9847af8de01a",
+   "text": "",
+   "doubtful": false,
+   "edited": false,
+   "prediction": ""
+  },
+  {
+   "id": "_1ea312a5-1995-4149-8049-9df11fec57cf",
+   "text": "",
+   "doubtful": false,
+   "edited": false,
+   "prediction": ""
+  },
+  {
+   "id": "_fe91fab3-000f-43f6-a9e0-ca8426020b65",
+   "text": "E",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "E"
+  },
+  {
+   "id": "_54683722-b6f8-47d6-9bf8-edc8da0700d2",
+   "text": "D",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "D"
+  },
+  {
+   "id": "_c3b5b241-2d15-49d2-acce-b018377fdc26",
+   "text": "DS",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "DS"
+  },
+  {
+   "id": "_0b5d77a1-da96-44b8-8ee2-b4e76ad7330d",
+   "text": "d",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "d"
+  },
+  {
+   "id": "_aa52862a-db12-46b2-a429-ff84b74df594",
+   "text": "1 ise ol",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "1 ise ol"
+  },
+  {
+   "id": "_7c4e9768-7630-429c-89f5-42b900aa477e",
+   "text": "telu",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "telu"
+  },
+  {
+   "id": "_86aa146f-25db-4c14-9650-9c541ccf4411",
+   "text": "Lu",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "Lu"
+  },
+  {
+   "id": "_a0961658-f2a9-49ff-bfba-2884150603f9",
+   "text": "V",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "V"
+  },
+  {
+   "id": "_ddea5688-c20f-453c-8a75-b241afdd97f8",
+   "text": "ere ",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "ere "
+  },
+  {
+   "id": "_be281785-1fdc-41ae-bed5-f45b867ef9a6",
+   "text": "du et utit",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "du et utit"
+  },
+  {
+   "id": "_b48a975c-aba1-4b4b-84b5-5cae5bef7769",
+   "text": "D",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "D"
+  },
+  {
+   "id": "_0b7d2bc5-ae06-4544-b4b4-d8eee97a4861",
+   "text": "L",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "L"
+  },
+  {
+   "id": "_ac448129-195a-4f92-a0b0-f0cff0db09e8",
+   "text": "4",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "4"
+  },
+  {
+   "id": "_fb43d10c-69a3-4519-80a9-2c41b3ed35b0",
+   "text": "At ",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "At "
+  },
+  {
+   "id": "_3d820720-e79c-4ca8-bad0-d4797e52140b",
+   "text": "Pte",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "Pte"
+  },
+  {
+   "id": "_fa748837-8905-4ba0-9e36-b5405f6cc5b9",
+   "text": "4",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "4"
+  },
+  {
+   "id": "_3348acf3-5e0d-48dc-b347-690b3628918a",
+   "text": "",
+   "doubtful": false,
+   "edited": false,
+   "prediction": ""
+  },
+  {
+   "id": "_ef17a5ec-1bf1-41db-8574-9d5603477d48",
+   "text": "Ah",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "Ah"
+  },
+  {
+   "id": "_3ad68b5a-8e2a-451b-93d9-3f04e848d6db",
+   "text": "FitCa",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "FitCa"
+  },
+  {
+   "id": "_75df6d8f-3d7f-4526-ac98-a3170866dbd4",
+   "text": "de",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "de"
+  },
+  {
+   "id": "_7a9de820-9e87-40a3-8d32-233d047155f2",
+   "text": "D",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "D"
+  },
+  {
+   "id": "_c12deacd-5697-4b67-8ce5-57689908d828",
+   "text": "5",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "5"
+  },
+  {
+   "id": "_b796ac27-c6f8-4296-92db-8372814ddd6b",
+   "text": "Bade",
+   "doubtful": false,
+   "edited": false,
+   "prediction": "Bade"
+  }
+ ]
+}
