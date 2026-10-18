@@ -87,4 +87,4 @@ Los commits anteriores a octubre de 2026 reconstruyen el historial perdido: sigu
 y las fechas aproximadas del trabajo, pero no contienen el código de ese momento. El código
 actual se escribió desde octubre de 2026.
 
-Parte del código se escribió con asistencia de IA (Claude) y lo revisé y probé yo.
+Parte del código se escribió con asistencia de IA (Claude/Copilot), revisada y probada por mí junto a usuarios e historiadores.
